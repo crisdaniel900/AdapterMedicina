@@ -1,0 +1,7 @@
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\bin\Debug\PatronAdapterMedicina.exe.config
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\bin\Debug\PatronAdapterMedicina.exe
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\bin\Debug\PatronAdapterMedicina.pdb
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\obj\Debug\PatronAdapterMedicina.csproj.AssemblyReference.cache
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\obj\Debug\PatronAdapterMedicina.csproj.CoreCompileInputs.cache
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\obj\Debug\PatronAdapterMedicina.exe
+C:\Users\luigu\Source\Repos\AdapterMedicina\PatronAdapterMedicina\obj\Debug\PatronAdapterMedicina.pdb

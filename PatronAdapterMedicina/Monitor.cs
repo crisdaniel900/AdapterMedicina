@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace PatronAdapterMedicina
 {
-    public abstract  class EstadisticasBase
+    public abstract  class Monitor
     {
         public abstract void Lectura();
         public abstract void Diagnostico();
+
+        public abstract void Alarma();
+
+        //public abstract void Alarma();
     }
 }

@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\",
+  "WorkspaceRootPath": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|c:\\users\\cris\\onedrive\\documentos\\2025\\7mo\\patrones\\u3\\patronadaptermedicina\\patronadaptermedicina\\estadisticasbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\estadisticasbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\patronadaptermedicina\\frecuenciacardiaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\frecuenciacardiaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\patronadaptermedicina\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|c:\\users\\luigu\\source\\repos\\adaptermedicina\\patronadaptermedicina\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\patronadaptermedicina\\presionarterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\presionarterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\presionarterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\patronadaptermedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\frecuenciacardiaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\frecuenciacardiaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\adaptadortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\adaptadortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\adaptadorpresionarterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\adaptadorpresionarterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\patronadaptermedicina\\adaptadorcardiaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD288243-089D-4DD6-88B2-FE7CD938F221}|PatronAdapterMedicina\\PatronAdapterMedicina.csproj|solutionrelative:patronadaptermedicina\\adaptadorcardiaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PresionArterial.cs",
-              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\PresionArterial.cs",
-              "RelativeDocumentMoniker": "PatronAdapterMedicina\\PresionArterial.cs",
-              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\PresionArterial.cs",
-              "RelativeToolTip": "PatronAdapterMedicina\\PresionArterial.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "DocumentIndex": 6,
+              "Title": "AdaptadorPresionArterial.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorPresionArterial.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\AdaptadorPresionArterial.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorPresionArterial.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\AdaptadorPresionArterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:31:52.27Z"
+              "WhenOpened": "2025-10-24T07:19:43.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrecuenciaCardiaca.cs",
-              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
-              "RelativeDocumentMoniker": "PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
-              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
-              "RelativeToolTip": "PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAASAAAA",
+              "DocumentIndex": 7,
+              "Title": "AdaptadorCardiaco.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorCardiaco.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\AdaptadorCardiaco.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorCardiaco.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\AdaptadorCardiaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:26:33.627Z"
+              "WhenOpened": "2025-10-24T07:06:21.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdaptadorTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorTemperatura.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\AdaptadorTemperatura.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\AdaptadorTemperatura.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\AdaptadorTemperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:52:03.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Temperatura.cs",
-              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\Temperatura.cs",
-              "RelativeDocumentMoniker": "PatronAdapterMedicina\\Temperatura.cs",
-              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\Temperatura.cs",
-              "RelativeToolTip": "PatronAdapterMedicina\\Temperatura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Title": "PresionArterial.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\PresionArterial.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\PresionArterial.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\PresionArterial.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\PresionArterial.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:26:04.649Z"
+              "WhenOpened": "2025-10-23T21:31:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrecuenciaCardiaca.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\FrecuenciaCardiaca.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:26:33.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EstadisticasBase.cs",
-              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\EstadisticasBase.cs",
-              "RelativeDocumentMoniker": "PatronAdapterMedicina\\EstadisticasBase.cs",
-              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\EstadisticasBase.cs",
-              "RelativeToolTip": "PatronAdapterMedicina\\EstadisticasBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Temperatura.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\Temperatura.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Temperatura.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\Temperatura.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:26:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Monitor.cs",
+              "RelativeDocumentMoniker": "PatronAdapterMedicina\\Monitor.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Monitor.cs",
+              "RelativeToolTip": "PatronAdapterMedicina\\Monitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T21:23:18.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Program.cs",
               "RelativeDocumentMoniker": "PatronAdapterMedicina\\Program.cs",
-              "ToolTip": "C:\\Users\\Cris\\OneDrive\\Documentos\\2025\\7mo\\Patrones\\u3\\PatronAdapterMedicina\\PatronAdapterMedicina\\Program.cs",
+              "ToolTip": "C:\\Users\\luigu\\source\\repos\\AdapterMedicina\\PatronAdapterMedicina\\Program.cs",
               "RelativeToolTip": "PatronAdapterMedicina\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:22:51.077Z"
+              "WhenOpened": "2025-10-23T21:22:51.077Z",
+              "EditorCaption": ""
             }
           ]
         }

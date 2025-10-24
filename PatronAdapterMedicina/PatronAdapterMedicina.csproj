@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdaptadorCardiaco.cs" />
+    <Compile Include="AdaptadorPresionArterial.cs" />
+    <Compile Include="AdaptadorTemperatura.cs" />
     <Compile Include="FrecuenciaCardiaca.cs" />
-    <Compile Include="EstadisticasBase.cs" />
+    <Compile Include="Monitor.cs" />
     <Compile Include="PresionArterial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
